@@ -1,0 +1,23 @@
+/***************************************************************************
+*
+*   Copyright(c) Jeff V. Merkey 1997-2023.  All rights reserved.
+*   pdf417 decoding PHP class for 2D barcode scanners
+*
+*   Licensed under the Lesser GNU Public License (LGPL) v2.1.
+*
+*   Permission to use, copy, modify, distribute, and sell this software and its
+*   documentation for any purpose is hereby granted without fee, provided that
+*   the above copyright notice appear in all copies and that both that
+*   copyright notice and this permission notice appear in supporting
+*   documentation.  No representations are made about the suitability of
+*   this software for any purpose.  It is provided "as is" without express or
+*   implied warranty.
+*
+*   DESCRIPTION:  pdf417 decoding PHP class for 2D barcode scanners
+* 
+*   Simple, down and dirty, easy to use PHP class for parsing pdf417 data 
+*   returned by 2D barcode scanners when scanning driver's license and ID
+*   card PDF417 data.  This class returns the scanned and parsed data as an
+*   indexed PHP array or a JSON encoded object.
+*
+***************************************************************************/
