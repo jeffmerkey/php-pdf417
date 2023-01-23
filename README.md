@@ -99,7 +99,7 @@ if ($jsondata)
 
 # Using the Example Program
 
-You can invoke the exmaple program from the command line with php command
+You can invoke the example program from the command line with php command
 line utility.
 
 ```sh
