@@ -95,10 +95,10 @@ barcode scanners.
 You can also convert the PDF417 array returned by the pdf417_parse()
 method into a json object.
 
-    // covert pdf417 datastream to json object
+    // convert pdf417 returned array to json object
     $jsondata = $pdfh->pdf417_json_encode($pdf417data);
 
-    // covert pdf417 json object to php array
+    // convert pdf417 json object to php array
     if ($jsondata)
        $jsonarray = $pdfh->pdf417_json_decode($jsondata);
 
