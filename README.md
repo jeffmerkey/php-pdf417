@@ -1,7 +1,8 @@
 
 # php-pdf417 <!-- omit in toc -->
 
-Simple PHP class for decoding PDF417 Datastreams from Web Browser 2D Barcode Scanners
+Simple PHP class for decoding Drivers License and ID Card PDF417 Datastreams 
+from Web Browser 2D Barcode Scanners
 
 ## Table of Contents <!-- omit in toc -->
 - [Copyright and Licensing](#copyright-and-licensing)

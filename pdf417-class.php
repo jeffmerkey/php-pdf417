@@ -408,7 +408,6 @@ class pdf417
    {
       return json_decode($jsondata);
    }
-
 }
 
 ?>
