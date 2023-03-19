@@ -64,8 +64,7 @@ decoder then create a class object and then you can parse a PDF417
 datastream returned from a 2D barcode scanner.  Position the cursor
 over the web browser field your PHP program will use to process the 
 datastream then scan the driver's license or id card with the 2D 
-scanner.  This code only works with 2D or 3D scanners and does
-not work with a 1D barcode reader as PDF417 is only supported by
+scanner.  PDF417 is only supported by
 2D and 3D barcode scanners.
 
 ```sh
